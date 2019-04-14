@@ -22,7 +22,6 @@ We interact with the system via a simple set of commands which produce a specifi
 
 To run the program:
 
-$ my_program file_inputs.txt > output.txt
 
 Input (in file):
 
