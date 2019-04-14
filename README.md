@@ -20,8 +20,6 @@ We interact with the system via a simple set of commands which produce a specifi
 
 ###Example: File Input
 
-To run the program:
-
 
 Input (in file):
 
@@ -102,10 +100,6 @@ Not found
 ```
 
 ###Example: Interactive
-
-To run the program and launch the shell:
-
-$ my_program
 
 Assuming a parking lot with 6 slots, the following commands should be run in sequence by
 
